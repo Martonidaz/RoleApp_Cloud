@@ -1,4 +1,4 @@
-# role_app_modular
+# Aplicativo Rolê
 
 A new Flutter project.
 
